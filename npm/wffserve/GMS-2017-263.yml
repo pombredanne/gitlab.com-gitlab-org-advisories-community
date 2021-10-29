@@ -12,7 +12,6 @@ affected_versions: "All versions"
 solution: "There is no solution for this vulnerability at the moment."
 urls:
 - "https://github.com/JacksonGL/NPM-Vuln-PoC/blob/master/directory-traversal/wffserve"
-- "https://nodesecurity.io/advisories/407"
 credit: "Liang Gong"
 uuid: "149016d5-dbc6-487a-aaf4-fb1a4ec525fb"
 cwe_ids:

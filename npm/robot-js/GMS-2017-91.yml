@@ -12,8 +12,7 @@ affected_range: ">=0.0.0-alpha"
 fixed_versions: []
 affected_versions: "All versions"
 solution: "There is no solution for this vulnerability at the moment."
-urls:
-- "https://nodesecurity.io/advisories/201"
+urls: []
 credit: "Adam Baldwin"
 uuid: "d5b52958-b04c-40df-9c8d-a2ee287b6a2c"
 cwe_ids:

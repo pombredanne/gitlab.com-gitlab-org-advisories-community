@@ -11,8 +11,7 @@ fixed_versions: []
 affected_versions: "All versions starting from 0.0.2"
 solution: "Because there is no patched version for this module, we suggest using a
   different one."
-urls:
-- "https://nodesecurity.io/advisories/339"
+urls: []
 credit: "Liang Gong"
 uuid: "977f36ef-dbdd-4b68-9e0f-5231f8696893"
 cwe_ids:
