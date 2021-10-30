@@ -20,3 +20,5 @@ urls:
 - "https://zyan.scripts.mit.edu/blog/backdooring-js/"
 credit: "Yan Zhu, Tom MacWright (UglifyJS),  Reed Loden (uglyfier)"
 uuid: "6fa33e76-33a5-4f18-b848-2f1ad12b5b45"
+identifiers:
+- "OSVDB-126747"

@@ -15,3 +15,5 @@ affected_versions: "All versions"
 solution: "There is no solution for this vulnerability at the moment."
 urls: []
 uuid: "e82d6cbc-4779-4e1c-8614-537e26dd29b7"
+identifiers:
+- "OSVDB-129854"
